@@ -1,0 +1,7 @@
+{
+  "name": "patientContainer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
